@@ -1,0 +1,62 @@
+{
+  "registries": [
+    {
+      "provider": "LocalMappings",
+      "uri": "http://coli-conc.gbv.de/registry/local-mappings",
+      "notation": [
+        "L"
+      ],
+      "prefLabel": {
+        "de": "Lokal",
+        "en": "Local"
+      },
+      "definition": {
+        "en": [
+          "Mappings saved locally in the browser"
+        ],
+        "de": [
+          "Mappings, die lokal im Browser gespeichert wurden"
+        ]
+      }
+    },
+    {
+      "provider": "MappingsApi",
+      "uri": "http://localhost:3000/mappings",
+      "status": "http://localhost:3000/status",
+      "notation": [
+        "C"
+      ],
+      "prefLabel": {
+        "de": "Mapping-Register WLO",
+        "en": "Mapping Registry WLO"
+      },
+      "definition": {
+        "en": [
+          "Central concordance registry of WirLernenOnline."
+        ],
+        "de": [
+          "Zentrales Konkordanz-Register von WirLernenOnline"
+        ]
+      }
+    },
+    {
+      "provider": "ConceptApi",
+      "uri": "http://localhost:3000",
+      "status": "http://localhost:3000/status",
+      "notation": [
+        "WLO"
+      ],
+      "prefLabel": {
+        "en": "WLO JSKOS"
+      },
+      "definition": {
+        "en": [
+          "WirLernenOnline JSKOS server instance"
+        ],
+        "de": [
+          "WirLernenOnline JSKOS-Server Instanz"
+        ]
+      }
+    }
+  ]
+}

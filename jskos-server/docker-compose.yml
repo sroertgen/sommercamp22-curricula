@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+  jskos-server:
+    image: coliconc/jskos-server
+    # replace this with your UID/GID if necessary (id -u; id -g); remove on macOS/Windows
+    user: 1000:1000
+    depends_on:
+      - mongo
+    volumes:
+      - ./data/config:/config
+      - ./imports:/imports
+    # environment:
+    #   - NODE_ENV=production # note that this requires the server to be run behind a HTTPS proxy
+    ports:
+      - 3000:3000
+    restart: unless-stopped
+
+  mongo:
+    image: mongo:4
+    # replace this with your UID/GID if necessary (id -u; id -g); remove on macOS/Windows
+    user: 1000:1000
+    volumes:
+      - ./data/db:/data/db
+    restart: unless-stopped
+

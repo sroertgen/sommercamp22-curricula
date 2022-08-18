@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  cocoda:
+    image: coliconc/cocoda
+    volumes:
+      # Mount ./config folder into container
+      - ./config:/config
+    ports:
+      # Use host port 8080
+      - 8080:80
+    restart: always

@@ -1,0 +1,34 @@
+{
+   "@context" : "https://gbv.github.io/jskos/context.json",
+   "prefLabel" : {
+      "de" : "Mathe Klasse 9 Bayern"
+   },
+   "topConcepts" : [
+      {
+         "uri" : "http://example.org/217170_9"
+      },
+      {
+         "uri" : "http://example.org/217174_9"
+      },
+      {
+         "uri" : "http://example.org/217171_9"
+      },
+      {
+         "uri" : "http://example.org/217160_9"
+      },
+      {
+         "uri" : "http://example.org/217169_9"
+      },
+      {
+         "uri" : "http://example.org/217150_9"
+      },
+      {
+         "uri" : "http://example.org/217177_9"
+      }
+   ],
+   "type" : [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+   ],
+   "uri" : "http://example.org/"
+}
+

@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": {
+        "<name>: Launch": {
+            "adapter": "debugpy",
+            "filetypes": [
+                "python"
+            ],
+            "configuration": {
+                "name": "Python: Current File",
+                "type": "python",
+                "request": "launch",
+                "python": "${workspaceFolder}/.venv/bin/python",
+                "program": "${file}",
+                "console": "integratedTerminal",
+                "justMyCode": true
+            }
+        }
+    }
+}
+

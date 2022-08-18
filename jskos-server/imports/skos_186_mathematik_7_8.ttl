@@ -1,0 +1,1842 @@
+@base <http://w3id.org/openeduhub/vocabs-playground/mathematik_7_8/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dini: <http://w3id.org/dini-ag-kim/terms/> .
+@prefix sdo: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<12902> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3153> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Prozent- und Promilleangaben als einfache Vergleichsmöglichkeit  
+	 Verschiedene Schreibweisen für Prozentsätze  
+	 Visualisierung in Form von Kreis- und Streifendiagrammen  
+	 Herstellen eines Prozent-Gummibandes"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12902> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Grundvorstellungen des Prozentbegriffes entwickeln  
+
+ K4: Verschiedene Formen der Darstellung von mathematischen Objekten und Situationen anwenden, interpretieren und unterscheiden"""@de .
+
+<12903> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3153> ;
+    skos:definition """Hinweise und Vernetzung 
+
+   L4: Funktionaler Zusammenhang: Terme und Gleichungen 
+	 Analogie zu den Grundaufgaben der Bruchrechnung herstellen 
+	 Visualisierung durch informative Figuren 
+	 Begriffe aus dem Wirtschaftsleben anwenden, z. B. Rabatt, Skonto, Mehrwertsteuer, Brutto, Netto, Gewinn, Verlust 
+	  Gesunde Ernährung, Zusammensetzung von Nahrungsmitteln (Biologie)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12903> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Grundaufgaben der Prozentrechnung lösen, einfache Aufgaben auch im Kopf 
+
+ Grundwert 
+	 Prozentsatz 
+	 Prozentwert 
+ K3: Die Situation, die modelliert werden soll, in mathematische Begriffe übersetzen  
+K2: Vorgegebene und selbst formulierte Probleme lösen  
+K6: Äußerungen von anderen und Texte zu mathematischen Inhalten verstehen und überprüfen"""@de .
+
+<12904> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3153> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12904> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Zinsrechnung als Anwendung der Prozentrechnung verstehen 
+
+ Kapital, Zinssatz, Jahreszinsen 
+ K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12905> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3153> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  L5: Daten und Zufall: Daten 
+	  „Deutschland versinkt im Müllberg“ (Bildung für nachhaltige Entwicklung) 
+	  Möglichkeiten des Energiesparens (Bildung für nachhaltige Entwicklung) 
+	  Wer verdient am Turnschuh? (Religion, Erdkunde) 
+	 Zwischen Prozentsätzen und Prozentpunkten unterscheiden (z. B. bei Wahlergebnissen) 
+	 Bei der Zinsrechnung verschiedene Zeiträume (auch über einem Jahr) berücksichtigen 
+	 Informationsbeschaffung, Expertenbefragung z. B. zu verschiedenen Sparformen 
+	   Tabellenkalkulation"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12905> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Prozent- und Zinsrechnung in Sachsituationen anwenden 
+
+ K3: Die Situation, die modelliert werden soll, in mathematische Begriffe übersetzen  
+K2: Vorgegebene und selbst formulierte Probleme lösen  
+K6: Äußerungen von anderen und Texte zu mathematischen Inhalten verstehen und überprüfen"""@de .
+
+<12906> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3153> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12906> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe: 
+
+ Grundwert, Prozentsatz, Prozentwert, Promille Kapital, Zinssatz, (Jahres-)Zinsen  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12907> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3153> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Vermehrter und verminderter Grundwert  
+	 Zeitfaktor bei Zinsen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12907> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Prozent- und Zinsrechnung in komplexen Sachsituationen anwenden 
+
+ K3: Die Situation, die modelliert werden soll, in mathematische Begriffe übersetzen 
+K2: Vorgegebene und selbst formulierte Probleme lösen  
+K6: Äußerungen von anderen und Texte zu mathematischen Inhalten verstehen und überprüfen"""@de .
+
+<12908> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3154> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Ausgehend von Situationen des täglichen Lebens 
+	 Klimadiagramme, Schmelz- und Siedediagramme (Erdkunde, Physik, Chemie) 
+	 Tabellenkalkulation"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12908> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Negative (Bruch-)Zahlen im jeweiligen Sachzusammenhang interpretieren und darstellen 
+
+ K5: Symbolische und formale Sprache in natürliche Sprache übersetzen und umgekehrt"""@de .
+
+<12909> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3154> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Rationalen Zahlen Punkte auf der Zahlengeraden zuordnen und umgekehrt 
+	 Betrag als Abstand vom Nullpunkt 
+	  Erstellen einer Zeitleiste (Geschichte)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12909> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Rationale Zahlen ordnen 
+
+ Betrag 
+ K4: Verschiedene Formen der Darstellung von mathematischen Objekten und Situationen anwenden  
+K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12910> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3154> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Positionen (Punkte) von Veränderungen (gerichteten Strecken) unterscheiden; Pfeillänge entspricht dem Betrag"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12910> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Rationale Zahlen als Pfeile an der Zahlengeraden darstellen  
+
+ K4: Verschiedene Formen der Darstellung von mathematischen Objekten und Situationen anwenden und interpretieren"""@de .
+
+<12911> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3154> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12911> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe:  
+
+ Rationale Zahl, Betrag  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12912> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3155> ;
+    skos:definition """Hinweise und Vernetzung 
+
+   L4: Funktionaler Zusammenhang: Zuordnungen und Funktionen 
+	 Anfangszustand ⎯⎯Veränderung⎯⎯→ Endzustand 
+	 Vorzeichen kennzeichnen den Zustand, Rechenzeichen die Veränderung 
+	 Für Sachsituationen werden nur folgende Aufgabentypen benötigt:
+	 ±a+b, ±a−b, ±a⋅b, ±a:b (a, b ∈ Qι +)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12912> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Sachaufgaben über Zustandsänderungen lösen 
+
+ K2: Vorgegebene und selbst formulierte Probleme bearbeiten 
+K3: In dem jeweiligen mathematischen Modell arbeiten 
+K2: Die Plausibilität der Ergebnisse überprüfen und die Lösungswege reflektieren"""@de .
+
+<12913> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3155> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Keine abstrakten Regelformulierungen (vierfache Fallunterscheidung), sondern Rückführung auf die Grundanschauung (Addition bzw. Subtraktion positiver rationaler Zahlen) – „Kurzschreibweise“ 
+	 Subtraktion negativer Zahlen interpretieren (z. B. Wegnehmen von Schulden, U-Boot verliert an Tiefe)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12913> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Rationale Zahlen addieren und subtrahieren 
+
+ additive Gegenzahl 
+ K5: Lösungs- und Kontrollverfahren ausführen 
+K4: Verschiedene Formen der Darstellung interpretieren 
+K5: Symbolische und formale Sprache in natürliche Sprache übersetzen und umgekehrt"""@de .
+
+<12914> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3155> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Definition von „Minus mal Minus“ über das Permanenzprinzip einsichtig machen 
+	 Auch mit Potenzen operieren"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12914> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Rationale Zahlen multiplizieren und dividieren 
+
+ multiplikative Gegenzahl 
+ K5: Lösungs und Kontrollverfahren ausführen"""@de .
+
+<12915> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3155> ;
+    skos:definition """Hinweise und Vernetzung 
+
+   L4: Funktionaler Zusammenhang: Terme und Gleichungen 
+	 Besondere Bedeutung des Distributivgesetzes"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12915> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Terme auswerten und interpretieren 
+
+ Rechenvorteile erkennen und dazu Rechengesetze nutzen 
+ K5: Mit Termen arbeiten 
+K4: Verschiedene Formen der Darstellung interpretieren"""@de .
+
+<12916> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3155> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Mengenbild IN ⊂ Z ⊂ Qι 
+	 Abgeschlossenheit bezüglich der Rechenoperationen und ihrer Umkehrungen 
+	  Geschichte der rationalen Zahlen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12916> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Die Notwendigkeit der Zahlbereichserweiterungen begründen  
+
+ K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12917> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3156> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Experimentelle Bestimmung des Flächeninhaltes 
+	 Anschauungsgebundenes Beschreiben und Begründen 
+	 Es soll bewusst werden, dass flächeninhaltsgleiche Figuren nicht den gleichen Umfang haben müssen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12917> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Flächeninhalte folgender Figuren durch Zurückführung auf Vielecke mit bekanntem Flächeninhalt bestimmen 
+
+ Parallelogramm 
+	 Dreieck 
+	 Trapez 
+ K2: Vorgegebene Probleme bearbeiten  
+K2: Geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden"""@de .
+
+<12918> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3156> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Die Herleitung der Trapezformel eignet sich ebenfalls, um das zugrunde liegende mathematische Prinzip zu verdeutlichen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12918> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Flächeninhaltsformeln herleiten  
+
+ Parallelogramm 
+	 Dreieck 
+ K2: Vorgegebene Probleme bearbeiten  
+K5: Mit Variablen, Termen und Gleichungen arbeiten"""@de .
+
+<12919> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3156> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Kreisformeln experimentell ermitteln 
+	 π als Proportionalitätsfaktor einführen 
+	  L4: Funktionaler Zusammenhang: Zuordnungen und Funktionen 
+	  Kreisberechnung in alten Kulturen (Geschichte)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12919> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Umfang und Flächeninhalt vom Kreis bestimmen und die Formeln aufstellen 
+
+ K1: Mathematische Argumentationen entwickeln  
+K1: Lösungswege beschreiben und begründen"""@de .
+
+<12920> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3156> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Auch Kreisausschnitte berücksichtigen 
+	  Flurbereinigung (Erdkunde, Gesellschaftslehre)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12920> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Berechnungen an zusammengesetzten ebenen Figuren (auch in Sachsituationen) durchführen 
+
+ K3: Den Bereich oder die Situation, die modelliert werden soll, in mathematische Begriffe, Strukturen und Relationen übersetzen  
+K2: Geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden 
+K3: Ergebnisse entsprechend der Situation interpretieren und prüfen"""@de .
+
+<12921> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3156> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12921> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe: 
+
+ Trapez 
+	 Kreiszahl π 
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12922> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3157> ;
+    skos:definition """Hinweise und Vernetzung 
+
+   L3: Raum und Form 
+	 Herstellen der Körper aus den zugehörigen Netzen 
+	 Experimentelle Bestimmung 
+	 Grundprinzip der Volumenberechnung für gerade Körper (Grundfläche · Höhe) herausarbeiten 
+	  Bestimmen von Rauminhalten von Körpern durch Wasserverdrängung (Physik) 
+	  L4: Funktionaler Zusammenhang: Zuordnungen und Funktionen Zusammenhänge zwischen Volumen und Höhe bzw. Radius untersuchen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12922> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Volumina und Oberflächeninhalte bestimmen 
+
+ gerade Prismen 
+	 gerade Zylinder 
+ K2: Vorgegebene Probleme bearbeiten  
+K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12923> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3157> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Z. B. Kirchtürme, Wasserbehälter u. ä. 
+	  Arbeitslehre, Technisches Zeichnen 
+	  Hochwasserschutz: Deichbau und Rückhaltebecken (Bildung für nachhaltige Entwicklung)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12923> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Berechnungen an zusammengesetzten Körpern (auch in Sachsituationen) durchführen 
+
+ K3: Den Bereich oder die Situation, die modelliert werden soll, in mathematische Begriffe, Strukturen und Relationen übersetzen  
+K2: Geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden  
+K3: Ergebnisse entsprechend der Situation interpretieren und prüfen"""@de .
+
+<12924> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  L2: Messen und Größen 
+	 Schrägbild des Zylinders nur skizzieren 
+	  Herstellung der Körper 
+	  Modellbau (Bildende Kunst, Werken) 
+	  „Unmögliche“ Figuren"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12924> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Körper 
+B Schrägbilder und Netze zeichnen und Beziehungen herstellen 
+
+ gerade Prismen 
+	 gerade Zylinder 
+ K4: Beziehungen zwischen Darstellungsformen erkennen und zwischen ihnen wechseln  
+K5: Mathematische Werkzeuge sinnvoll und verständig einsetzen"""@de .
+
+<12925> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Das Geodreieck kann verwendet werden 
+	 Kreis durch drei Punkte, die nicht auf einer Geraden liegen 
+	  Standortplanung (Umkreis, Inkreis) 
+	  Gotisches Maßwerk (Bildende Kunst) 
+	  Mandalas (Religion) 
+	  Dynamische Geometriesoftware"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12925> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Grundkonstruktionen 
+B Mittelsenkrechten und Winkelhalbierende zeichnen und deren Eigenschaften in Sachsituationen anwenden 
+
+ K3: Die Situation, die modelliert werden soll, in mathematische Begriffe, Strukturen und Relationen übersetzen  
+K3: Ergebnisse in der entsprechenden Situation interpretieren und prüfen  
+K5: Mathematische Werkzeuge sinnvoll und verständig einsetzen"""@de .
+
+<12926> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ 
+	  Verpackungen runder Gegenstände"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12926> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Kreistangente in einem vorgegebenen Berührpunkt zeichnen und dieses in Sachsituationen anwenden 
+
+ K3: Die Situation, die modelliert werden soll, in mathematische Begriffe, Strukturen und Relationen übersetzen  
+K3: Ergebnisse in der entsprechenden Situation interpretieren und prüfen  
+K5: Mathematische Werkzeuge sinnvoll und verständig einsetzen"""@de .
+
+<12927> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ D. h. beim Konstruieren wird auf die Verwendung von Längen- und Winkelmaß verzichtet 
+	  Dynamische Geometriesoftware: eigene Makros für Grundkonstruktionen erstellen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12927> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Grundkonstruktionen nur mit Zirkel und Lineal durchführen 
+
+ K2: Geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden  
+K5: Mathematische Werkzeuge sinnvoll und verständig einsetzen"""@de .
+
+<12928> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Figuren auch unter Verwendung vorgegebener Symmetrieelemente erzeugen 
+	  Geobrett 
+	  Geometrie in der Architektur (Bildende Kunst, Geschichte)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12928> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Symmetrische Figuren 
+B Symmetrische Dreiecke und Vierecke beschreiben und zeichnen 
+
+ gleichschenkliges Dreieck  
+	 gleichseitiges Dreieck 
+	 Trapez 
+	 Drachenviereck 
+ 
+K6: Die Fachsprache adressatengerecht verwenden  
+K5: Mathematische Werkzeuge sinnvoll und verständig einsetzen"""@de .
+
+<12929> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  Dynamische Geometriesoftware: Rückblende nutzen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12929> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Symmetrische Figuren 
+Konstruktionsbeschreibungen erstellen 
+
+ K1: Mathematische Argumentationen entwickeln  
+K6: Überlegungen sowie Lösungswege dokumentieren und verständlich darstellen, auch unter Nutzung geeigneter Medien  
+K6: Äußerungen von anderen und Texte zu mathematischen Inhalten verstehen und überprüfen"""@de .
+
+<12930> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12930> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe: Gleichschenkliges Dreieck, gleichseitiges Dreieck, Basis, Schenkel, 
+Trapez, Drachenviereck 
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12931> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ „Haus der Vierecke“"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12931> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Zusammenhänge zwischen den Vierecken beschreiben und begründen 
+
+ Teilmengenbeziehungen 
+	 Wenn-dann-Aussagen, All-Aussagen, ... 
+ K1: Fragen stellen, Vermutungen begründet äußern und mathematische Argumentationen entwickeln 
+K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12932> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12932> ;
+    skos:inScheme <> ;
+    skos:prefLabel """V Verschiedene Definitionsmöglichkeiten für Vierecke und Dreiecke angeben 
+
+ K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12933> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Im Vordergrund steht der anschauliche und handlungsbezogene Aufbau des Begriffs „Kongruenz“ („Deckungsgleichheit“) 
+	 Auch mehrdeutige Konstruktionen 
+	 Unzugängliche Größen (Streckenlängen, Winkelgrößen) durch maßstabsgetreue Konstruktion näherungsweise ermitteln 
+	  Vermessungen im Gelände (Erdkunde) 
+	  Dynamische Geometriesoftware"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12933> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Kongruente Figuren 
+B Dreiecke aus gegebenen Seitenlängen und Winkelmaßen konstruieren und die Konstruktion beschreiben 
+
+ K2: Geeignete heuristische Hilfsmittel (z. B. Planfigur), Strategien und Prinzipien zum Problemlösen auswählen und anwenden 
+K6: Überlegungen sowie Lösungswege dokumentieren und verständlich darstellen, auch unter Nutzung geeigneter Medie"""@de .
+
+<12934> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  Übereinstimmung entsprechender Längen und Winkel 
+	 Konstruktion von Escher-Figuren (  Bildende Kunst) 
+	  Gelenkrauten (Arbeitslehre, Werken)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12934> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Eigenschaften kongruenter Vielecke beschreiben 
+
+ K6: Die Fachsprache adressatengerecht verwenden 
+K6: Äußerungen von anderen zu mathematischen Inhalten verstehen und überprüfen"""@de .
+
+<12935> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Beschränkung auf zwei Kongruenzsätze, z. B. SSS und SsW"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12935> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Ausgewählte Kongruenzsätze kennen und zur Konstruktion von Dreiecken nutzen  
+
+ K2: Vorgegebene und selbst formulierte Probleme bearbeiten"""@de .
+
+<12936> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Z. B. Dreieckskonstruktion bei Vorgabe zweier Seiten und eines Winkels"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12936> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fragen zur Lösbarkeit und Lösungsvielfalt von Konstruktionen untersuchen  
+
+ K1: Fragen stellen, Vermutungen begründet äußern und mathematische Argumentationen entwickeln"""@de .
+
+<12937> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12937> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriff:  
+
+ Kongruent  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12938> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Hierfür müssen alle Kongruenzsätze bekannt sein"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12938> ;
+    skos:inScheme <> ;
+    skos:prefLabel """V Kongruente Figuren erkennen und für Begründungen verwenden  
+
+ K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12939> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Die Aussagen sollen einsichtig gemacht werden"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12939> ;
+    skos:inScheme <> ;
+    skos:prefLabel """SÄTZE DER EBENEN GEOMETRIE 
+B Winkelsumme bei Dreiecken und Vierecken kennen und anwenden 
+
+ K1: Mathematische Argumentationen entwickeln  
+K2: Vorgegebene und selbst formulierte Probleme bearbeiten"""@de .
+
+<12940> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12940> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Winkelsätze an einfachen und doppelten Geradenkreuzungen begründen und anwenden 
+
+ K1: Mathematische Argumentationen entwickeln  
+K2: Vorgegebene und selbst formulierte Probleme bearbeiten"""@de .
+
+<12941> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Winkelsumme in Polygonen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12941> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Den Satz über die Winkelsumme im Dreieck begründen  
+
+ K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12942> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Systematischen Aufbau eines Beweises verdeutlichen 
+	  Internetrecherche rund um Thales von Milet"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12942> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Den Satz des Thales begründen und anwenden  
+
+ K1: Mathematische Argumentationen entwickeln  
+K2: Vorgegebene und selbst formulierte Probleme bearbeiten"""@de .
+
+<12943> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Idee des indirekten Beweisens verdeutlichen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12943> ;
+    skos:inScheme <> ;
+    skos:prefLabel """V Zwischen dem Satz des Thales und seiner Umkehrung unterscheiden und die Umkehrung begründen  
+
+ K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12944> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  L4: Funktionaler Zusammenhang: Zuordnungen und Funktionen 
+	  Experimente mit klappbaren Spiegeln (Spiegelbuch)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12944> ;
+    skos:inScheme <> ;
+    skos:prefLabel """GEOMETRISCHE ABBILDUNGEN 
+B Drehungen und Verschiebungen im ebenen kartesischen Koordinatensystem ausführen 
+
+ K5: Mathematische Werkzeuge sinnvoll und verständig einsetzen"""@de .
+
+<12945> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Astronomie: z. B. Bewegungen von Himmelskörpern (Physik, Erdkunde) 
+	 Analyse von Parketten (Bildende Kunst)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12945> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Geometrische Abbildungen hinsichtlich ihrer Bestimmungsstücke untersuchen  
+
+ Symmetrieachse 
+	 Drehzentrum und -winkel 
+	 Verschiebungspfeil 
+ K1: Mathematische Argumentationen entwickeln  
+K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12946> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12946> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fixelemente und Invarianten kennen und bei Konstruktionen anwenden  
+
+ K2: Vorgegebene und selbst formulierte Probleme bearbeiten"""@de .
+
+<12947> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Auch auf Abbildungen hinweisen, bei denen Bild und Urbild nicht zueinander kongruent sind (z. B. Schattenwurf)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12947> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Kongruenzabbildung 
+ K2: Geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden"""@de .
+
+<12948> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Dynamische Geometriesoftware"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12948> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Konstruktions- und Sachaufgaben mithilfe von Kongruenzabbildungen lösen 
+
+ K3: Den Bereich oder die Situation, die modelliert werden soll, in mathematische Begriffe, Strukturen und Relationen übersetzen  
+K3: Ergebnisse in dem entsprechenden Bereich oder der entsprechenden Situation interpretieren und prüfen  
+K5: Mathematische Werkzeuge sinnvoll und verständig einsetzen"""@de .
+
+<12949> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12949> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe:  
+
+ Verschiebungspfeil, Kongruenzabbildung  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12950> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3158> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  Dynamische Geometriesoftware"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12950> ;
+    skos:inScheme <> ;
+    skos:prefLabel """V Zusammenhänge zwischen ausgewählten Kongruenzabbildungen und der Verkettung zweier Achsenspiegelungen beschreiben und begründen  
+
+ K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12951> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3159> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  L1: Zahl und Zahlbereiche: Rationale Zahlen 
+	 „Diagramme erzählen Geschichten“ 
+	 „Durchzeichnen“ von Graphen 
+	 Auch nichtlineare Zusammenhänge, z. B. Klimadiagramm, Fieberkurve, Aktienkurse, Fahrtenschreiber"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12951> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Zuordnungen im Alltag erkennen, beschreiben und darstellen 
+
+ verbal 
+	 Tabelle 
+	 Graph 
+ K4: Verschiedene Formen der Darstellung von mathematischen Objekten und Situationen anwenden und unterscheiden  
+K4: Unterschiedliche Darstellungsformen je nach Situation und Zweck auswählen und zwischen ihnen wechseln  
+K3: Ergebnisse in dem entsprechenden Bereich oder der entsprechenden Situation interpretieren und prüfen"""@de .
+
+<12952> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3159> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Z. B. Tageszeit → Stromverbrauch oder: Alter → Taschengeld 
+	  Body-Mass-Index (Gesundheitserziehung) 
+	  Handytarife"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12952> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Alltagssituationen mit Hilfe von Zuordnungen analysieren und interpretieren, auch unter dem Aspekt der Eindeutigkeit 
+
+ K3: Den Bereich oder die Situation, die modelliert werden soll, in mathematische Begriffe, Strukturen und Relationen übersetzen  
+K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12953> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3159> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12953> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe 
+
+ Zuordnung, Graph einer Zuordnung  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12954> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3159> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Kennzeichen → Autobesitzer 
+	 Eindeutigkeit am Graphen und am Pfeildiagramm verdeutlichen 
+	  L3: Raum und Form (Geometrische Abbildungen) 
+	 Auch die Umkehrung von Zuordnungen betrachten"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12954> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Eindeutige Zuordnungen als Funktionen benennen und Beispiele daraufhin analysieren 
+
+ K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12955> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3159> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  Tabellenkalkulation 
+	 Beschreibung des grafischen Verlaufs (steigend, fallend, Hoch- oder Tiefpunkt)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12955> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Funktionen erkennen, beschreiben und darstellen 
+
+ Funktionsterm 
+	 f:x → ...oder f(x)= ... als Schreibweise für die Funktion 
+ K5: Mit Variablen, Termen, Gleichungen, Funktionen, Diagrammen und Tabellen arbeiten"""@de .
+
+<12956> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3159> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12956> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe 
+
+ Funktion, Funktionsterm  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12957> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Z. B. „Je mehr ... desto mehr“-Zuordnungen von proportionalen unterscheiden 
+	  L2: Messen und Größen Zusammenhänge zwischen Volumen des Zylinders und dessen Höhe bzw. Radius untersuchen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12957> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B In Sachsituationen  proportionale  bzw.  antiproportionale Zuordnungen  erkennen und unterscheiden 
+
+ K3: Den Bereich oder die Situation, die modelliert werden soll, in mathematische Begriffe, Strukturen und Relationen übersetzen  
+K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12958> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Idealisierungen (z. B. Verwendung von Durchschnittswerten) bewusst machen 
+	 Lösungsverfahren über Zuordnungstabelle veranschaulichen (Dreisatz) 
+	 Kostenkalkulation (z. B. für Klassenfahrten oder Schulfeste) 
+	  L1: Zahl und Zahlbereiche: Prozent- und Zinsrechnung 
+	  Tabellenkalkulation"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12958> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Sachaufgaben zu proportionalen bzw. antiproportionalen Zuordnungen mithilfe ihrer Eigenschaften lösen 
+
+ K3: In dem jeweiligen mathematischen Modell arbeiten  
+K3: Ergebnisse in der entsprechenden Situation interpretieren und prüfen"""@de .
+
+<12959> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12959> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe:  
+
+ Proportional, antiproportional  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12960> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Experimentelle Bestimmung eines linearen Zusammenhangs:
+	 Füllgraph (z. B. Wasserhöhe in einem Zylinder bei gleich bleibender Zulaufgeschwindigkeit) 
+		 Ausgleichsgerade (z. B. „Zählen“ von Nägeln durch Wiegen)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12960> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E In Sachsituationen lineare Funktionen erkennen und nutzen sowie proportionale Funktionen als Sonderfälle deuten 
+
+ K3: Den Bereich oder die Situation, die modelliert werden soll, in mathematische Begriffe, Strukturen und Relationen übersetzen  
+K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12961> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  Hooke’sches Gesetz (Physik) 
+	  Boyle-Mariotte’sches Gesetz (Chemie, Physik) – dazu konkrete Messungen durchführen 
+	  Funktionsplotter, Tabellenkalkulation"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12961> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Die Graphen linearer bzw. antiproportionaler Funktionen beschreiben 
+
+ Gerade 
+	 Hyperbel 
+   
+
+ K6: Überlegungen und Ergebnisse verständlich darstellen, auch unter Nutzung geeigneter Medien"""@de .
+
+<12962> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Einfluss der Steigung auf den Graphen 
+	 Sonderfall der Parallelität zur y-Achse 
+	  Muster (z. B. Fantasietiere) aus Graphen linearer Funktionen zusammensetzen 
+	  Funktionsplotter, Tabellenkalkulation"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12962> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Charakteristische Eigenschaften linearer Funktionen kennen und sachgerecht nutzen 
+
+ Steigung 
+	 y-Achsenabschnitt 
+	 Achsenschnittpunkte 
+ K4: Beziehungen zwischen Darstellungsformen erkennen  
+K5: Symbolische und formale Sprache in natürliche Sprache übersetzen und umgekehrt"""@de .
+
+<12963> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  Funktionsplotter, Tabellenkalkulation 
+	 Propädeutisch werden Geradenscharen untersucht"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12963> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Parameteränderungen bei linearen Funktionen und deren Auswirkungen auf den Graphen erläutern und in Kontexten interpretieren 
+
+ K1: Fragen stellen, die für die Mathematik charakteristisch sind, und Vermutungen begründet äußern  
+K4: Beziehungen zwischen Darstellungsformen erkennen"""@de .
+
+<12964> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12964> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe: 
+
+ Lineare Funktion, Steigung, y-Achsenabschnitt, Hyperbel  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12965> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3160> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12965> ;
+    skos:inScheme <> ;
+    skos:prefLabel """V Zuordnungen mithilfe von Quotienten- und Produktgleichheit untersuchen  
+
+ K5: Lösungs-und Kontrollverfahren ausführen"""@de .
+
+<12966> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Z. B. Materialverbrauch bei Modellbau oder Verpackungen 
+	 Variablenbezeichnungen variieren 
+	 Vorrangregeln und Rechengesetze sind aus der Orientierungsstufe bekannt"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12966> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Terme zu Sachproblemen aufstellen, deren Struktur erfassen und für gegebene Werte ausrechnen 
+
+ K2: Geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden  
+K5: Mit Variablen und Termen arbeiten"""@de .
+
+<12967> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Terme mit nur einer Variablen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12967> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Einfache Terme in äquivalente umformen  
+
+ K5: Mit Variablen, Termen und Gleichungen arbeiten"""@de .
+
+<12968> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Methoden der Orientierungsstufe aufgreifen (systematisches Probieren, Umkehroperationen durchführen, inhaltliches Lösen) 
+	 Visualisierungsmöglichkeiten: Waage, Zahlengerade"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12968> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Einfache lineare Gleichungen lösen, auch mit Äquivalenzumformungen 
+
+ K5: Mit Variablen und Termen arbeiten  
+K1: Lösungswege beschreiben und begründen 
+K5: Lösungs- und Kontrollverfahren ausführen"""@de .
+
+<12969> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Texte in Gleichungen umwandeln und zu gegebenen Gleichungen Textaufgaben erfinden 
+	 Zahlen- und Altersrätsel"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12969> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Sachaufgaben zu linearen Gleichungen lösen 
+
+ K5: Symbolische und formale Sprache in natürliche Sprache übersetzen und umgekehrt  
+K3: Ergebnisse in der entsprechenden Sachsituation interpretieren und prüfen"""@de .
+
+<12970> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Maximal drei Variablen 
+	 Summen und Differenzen von Termen mit Klammern; nicht ineinander verschachtelt 
+	  L1: Zahl und Zahlbereiche: Rationale Zahlen 
+	 Noch keine Produkte von Termen der Form (a±b)(c±d) 
+	  Zahlentricks durch Terme analysieren"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12970> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Komplexere Terme erfassen, für gegebene Werte ausrechnen und in äquivalente umformen 
+
+ K2: Geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden  
+K5: Mit Variablen und Termen arbeiten"""@de .
+
+<12971> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Visualisierung mithilfe grafischer Interpretationen 
+	 Es genügt, einfache Ungleichungen zu betrachten und den Blick auf die Unterschiede bei Äquivalenzumformungen zu richten"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12971> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Gleichungen und Ungleichungen mit einer Variablen durch Äquivalenzumformungen lösen 
+
+ Lösungsmenge 
+	 Sonderfälle 
+ K5: Mit Variablen, Termen und Gleichungen arbeiten"""@de .
+
+<12972> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:definition """Hinweise und Vernetzung 
+Beispiele: Mischungs- und Bewegungsaufgaben"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12972> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Sachaufgaben mit Hilfe von Gleichungen und Ungleichungen lösen 
+
+ Grundmenge 
+ K5: Symbolische und formale Sprache in natürliche Sprache übersetzen und umgekehrt  
+K2: Geeignete heuristische Hilfsmittel, Strategien und Prinzipien zum Problemlösen auswählen und anwenden  
+K3: Ergebnisse in der entsprechenden Sachsituation interpretieren und prüfen"""@de .
+
+<12973> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  L4: Funktionaler Zusammenhang: Zuordnungen und Funktionen 
+	  Tabellenkalkulation, Funktionsplotter, grafikfähiger Taschenrechner"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12973> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Terme mit einer Variablen funktional interpretieren und grafisch darstellen 
+
+ K4: Verschiedene Formen der Darstellung von mathematischen Objekten anwenden, interpretieren und unterscheiden  
+K5: Mit Variablen, Termen, Gleichungen, Funktionen, Diagrammen und Tabellen arbeiten"""@de .
+
+<12974> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3161> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12974> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe: 
+
+ Grundmenge, Lösungsmenge, Ungleichung  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12975> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3162> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  L1: Zahl und Zahlbereiche: Prozent- und Zinsrechnung 
+	 Beispiele für „Formeln“: Flächeninhalts- und Volumenformeln; auch „Formeln“ verwenden, die in anderen Fächern benutzt werden, z. B. Weg = Geschwindigkeit · Zeit oder Masse = Dichte · Volumen 
+	 Vor dem Auflösen sollen für die Parameter die gegebenen Zahlenwerte eingesetzt werden, so dass einzig die Lösungsvariable stehen bleibt"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12975> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Einfache Gleichungen mit Parametern nach einer Variablen auflösen 
+
+ K1: Lösungswege beschreiben und begründen  
+K5: Mit Variablen, Termen und Gleichungen arbeiten"""@de .
+
+<12976> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3162> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Unterscheidung zwischen Lösungsvariablen und Parametern (Formvariablen) 
+	 Vor dem Einsetzen gegebener Werte soll die Formel zunächst nach der Lösungsvariablen umgeformt werden"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12976> ;
+    skos:inScheme <> ;
+    skos:prefLabel """E Gleichungen mit Parametern lösen 
+
+ Lösungsvariable 
+ K5: Mit Variablen und Termen arbeiten  
+K1: Lösungswege beschreiben und begründen"""@de .
+
+<12977> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3162> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Visualisierung als Flächenteile 
+	  Fehlerfortpflanzung (Naturwissenschaften) 
+	 Bei binomischen Formeln beide Richtungen: 
+	 Fachbegriffe: 
+	 Ausmultiplizieren und Faktorisieren 
+	  Binomische Formeln mit höheren Exponenten (Pascalsches Dreieck)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12977> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Produkte von Termen mit Variablen umformen 
+
+ (a±b)(c±d) 
+	 binomische Formeln 
+ K5: Mit Variablen und Termen arbeiten  
+K1: Lösungswege beschreiben und begründen"""@de .
+
+<12978> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3162> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12978> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Sachaufgaben lösen, die auf entsprechende Terme bzw. Gleichungen führen 
+
+ K2: Geeignete heuristische Hilfsmittel (z. B. informative Figuren), Strategien und Prinzipien zum Problemlösen auswählen und anwenden  
+K3: Ergebnisse in der entsprechenden Situation interpretieren und prüfen"""@de .
+
+<12979> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3162> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12979> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe: 
+
+ Lösungsvariable, binomische Formeln 
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12980> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3162> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Beispiel: allgemeine Lösung von ax + b = c 
+	  Tabellenkalkulation"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12980> ;
+    skos:inScheme <> ;
+    skos:prefLabel """V Gleichungen mit Parametern lösen, bei denen eine Fallunterscheidung erforderlich ist 
+
+ K5: Mit Variablen, Termen und Gleichungen arbeiten  
+K1: Mathematische Argumentationen entwickeln  
+K1: Lösungswege beschreiben und begründen"""@de .
+
+<12981> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3163> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  Tabellenkalkulation 
+	 Auch irreführende Darstellungen, z. B. durch unterschiedliche Skalierung der Achsen oder durch unterschiedliche Intervallbreiten bei Säulendiagrammen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12981> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Daten grafisch aufbereiten, auswerten und interpretieren 
+
+ Spannweite, Median (Zentralwert) 
+	 Boxplot 
+ K4: Verschiedene Formen der Darstellung von Situationen anwenden, interpretieren und unterscheiden  
+K3: Ergebnisse in der entsprechenden Situation interpretieren"""@de .
+
+<12982> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3163> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12982> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe:  Spannweite, Median, Boxplot 
+
+ K3: Ergebnisse in der entsprechenden Situation prüfen  
+K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<12983> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3164> ;
+    skos:definition """Hinweise und Vernetzung 
+
+  Tabellenkalkulation 
+	 Aus dem Alltag der Schülerinnen und Schüler 
+	 Z. B. bei Wahlen (auch im schulischen Umfeld) oder zu Chancen beim nächsten Spielzug 
+	  Bau und Einsatz von Glücksrädern und Zufallsgeräten (z. B. „ungewöhnliche“ Würfel)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12983> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Zufällige Erscheinungen erkennen und beschreiben 
+
+ einstufige Zufallsexperimente: Spiele 
+	 Prognosen 
+ K6: Äußerungen von anderen und Texte zu mathematischen Inhalten verstehen und überprüfen"""@de .
+
+<12984> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3164> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Gesetz der großen Zahlen – propädeutisch 
+	 Durchführung und Auswertung von Versuchsserien, auch mithilfe von Computerprogrammen 
+	  Spiele erfinden und realisieren bzw. „vermarkten“, z. B. Verkauf bei einem Schulfest (Bildende Kunst, Werken) 
+	  Entschlüsselung durch Analyse von Buchstabenhäufigkeiten (Deutsch)"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12984> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Wahrscheinlichkeiten durch relative Häufigkeiten bei langen Versuchsreihen schätzen 
+
+ K2: Probleme mathematisch lösen  
+K4: Verschiedene Formen der Darstellung von mathematischen Situationen anwenden, interpretieren und unterscheiden"""@de .
+
+<12985> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3164> ;
+    skos:definition """Hinweise und Vernetzung 
+
+ Z. B. Niederschlagswahrscheinlichkeit, Trefferwahrscheinlichkeit im Fußball 
+	 Spielsituationen in Gesellschaftsspielen"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12985> ;
+    skos:inScheme <> ;
+    skos:prefLabel """B Wahrscheinlichkeiten bei zufälligen Erscheinungen berechnen bzw. deuten 
+
+ Wahrscheinlichkeiten im Alltag 
+	 Wahrscheinlichkeit bei Laplace-Experimenten als Verhältnis der Anzahl der günstigen zu den möglichen Ergebnissen 
+ K2: Vorgegebene und selbst formulierte Probleme bearbeiten  
+K1: Mathematische Argumentationen entwickeln"""@de .
+
+<12986> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <3164> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/enablingObjectives/12986> ;
+    skos:inScheme <> ;
+    skos:prefLabel """Fachbegriffe:  
+
+ Zufallsexperiment, Ergebnis, Wahrscheinlichkeit  
+
+ K6: Die Fachsprache adressatengerecht verwenden"""@de .
+
+<3157> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3157> ;
+    skos:inScheme <> ;
+    skos:narrower <12922>,
+        <12923> ;
+    skos:prefLabel "L2: MESSEN UND GRÖSSEN - BERECHNUNGEN AN KÖRPERN"@de .
+
+<3163> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<p>Im Bereich der Daten werden in den Klassenstufen 7 und 8 die Begriffe aus der Orientierungsstufe (absolute bzw. relative Häufigkeit und arithmetisches Mittel) aufgegriffen und um den Prozentbegriff und weitere statistische Kennwerte (Spannweite und Median) und Darstellungsweisen (z. B. Boxplots zum Vergleich von Datenreihen) ergänzt. Lag in den Klassenstufen 5 und 6 ein Schwerpunkt auf der Planung und Durchführung von Datenerhebungen, so kann jetzt auch auf bereits verfügbare Daten zurückgegriffen werden, um Datenanalysen durchführen zu können.</p>
+
+<p>Alltagssituationen, in denen der Zufall eine Rolle spielt, sind den Schülerinnen und Schülern wohl vertraut (z. B. Gesellschaftsspiele, Ziehung der Lottozahlen, Regenwahrscheinlichkeit). Sie sind von subjektiven Erfahrungen geprägt, bei denen die Bedeutsamkeit des jeweiligen Ereignisses eine entscheidende Rolle spielt und die individuelle Wahrnehmung gegenüber der theoretischen Wahrscheinlichkeit stark abweichen kann. Es gilt zu verdeutlichen, dass der Blick auf den Einzelfall bzw. auf Einzelergebnisse (z. B. der nächste Spielzug) nicht ausreicht, um Prognosen zu erstellen, sondern dass diese nur auf lange Sicht eingeschätzt werden können. Damit die Lernenden mithilfe des in der Schule erworbenen Wissens auch alltägliche Zufallssituationen besser bewältigen können, gilt es, ihre Vorerfahrungen aufzugreifen (etwa durch Schätzungen im Vorfeld), Zufallsexperimente tatsächlich durchzuführen und auszuwerten sowie Abweichungen von den Schätzungen zu diskutieren. Überhaupt sind zum Aufbau tragfähiger Vorstellungen zu zufälligen Erscheinungen vielfältige Untersuchungen und Experimente nötig, die von den Schülerinnen und Schülern selbst durchzuführen sind.</p>
+
+<p>Eine frühzeitige Eingrenzung des Wahrscheinlichkeitsbegriffs auf Laplace-Experimente dient nicht dem Aufbau tragfähiger Vorstellungen bzw. eines flexiblen Umgangs mit Wahrscheinlichkeiten im Alltag und ist deshalb zu vermeiden. </p>
+
+<p><strong>Hinweise und Vernetzung</strong></p>
+
+<p><i class="fa fa-level-up"></i> L1: Zahl und Zahlbereiche: Prozent- und Zinsrechnung </p>"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3163> ;
+    skos:inScheme <> ;
+    skos:narrower <12981>,
+        <12982> ;
+    skos:prefLabel "L5: DATEN UND ZUFALL - Daten"@de .
+
+<3154> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<p>In der Orientierungsstufe wurden Grundvorstellungen bezüglich der ganzen Zahlen aufgebaut, die aufgegriffen und vertieft werden. Hinzu kommen – falls noch nicht in der Orientierungsstufe behandelt – negative Bruchzahlen. Sachaufgaben werden als Zustandsänderungen interpretiert und gelöst. Trotz der Verfügbarkeit des Taschenrechners werden einfache Aufgaben auch im Kopf gelöst.In den Erweiterungsteilen (<strong>E</strong>) kann bei Addition und Subtraktion der zweite Operand auch negativ sein. Bei der formalen Behandlung der Rechenarten soll der Schwerpunkt nicht auf der Formulierung und Anwendung abstrakter Regeln (4-fache Fallunterscheidung) liegen, sondern durch Rückführung auf die Addition bzw. Subtraktion positiver Zahlen die „Kurzschreibweise“ erarbeitet werden. Grundlage für das Verständnis ist immer die An- schauung. Daher soll auf Übungsphasen mit aufwändigen Rechentermen verzichtet werden. Nach der Zahlbereichserweiterung von IN nach Qι + (Bruchzahlen) soll nun mit der Erweiterung auf Qι die Abgeschlossenheit bezüglich der Grundrechenarten bewusst gemacht werden. </p>
+"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3154> ;
+    skos:inScheme <> ;
+    skos:narrower <12908>,
+        <12909>,
+        <12910>,
+        <12911> ;
+    skos:prefLabel "L1: ZAHL UND ZAHLBEREICHE: - RATIONALE ZAHLEN DARSTELLEN"@de .
+
+<3164> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3164> ;
+    skos:inScheme <> ;
+    skos:narrower <12983>,
+        <12984>,
+        <12985>,
+        <12986> ;
+    skos:prefLabel "L5: DATEN UND ZUFALL - Zufällige Erscheinungen"@de .
+
+<3155> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<table border="1" cellpadding="1" cellspacing="1" style="width:100%;"><tbody><tr><td style="text-align:center;"><strong>Kompetenzen</strong></td>
+			<td style="text-align:center;"><strong>Inhalte</strong></td>
+			<td style="text-align:center;"><strong>Hinweise und Vernetzung</strong></td>
+		</tr><tr><td>
+			<p>K2: Vorgegebene und selbst formulierte Probleme bearbeiten</p>
+
+			<p><br>
+			K3: In dem jeweiligen mathematischen Modell arbeiten</p>
+
+			<p>K2: Die Plausibilität der Ergebnisse überprüfen und die Lösungswege reflektieren</p>
+			</td>
+			<td>
+			<p><strong>MIT RATIONALEN ZAHLEN RECHNEN</strong></p>
+
+			<p><br><strong>B </strong>Sachaufgaben über Zustandsänderungen lösen</p>
+			</td>
+			<td>
+			<p>L4: Funktionaler Zusammenhang: Zuordnungen und Funktionen</p>
+
+			<p>Anfangszustand  Veränderung⎯⎯⎯⎯⎯⎯→ Endzustand</p>
+
+			<p>Vorzeichen kennzeichnen den Zustand, Rechenzeichen die Veränderung</p>
+
+			<p>Für Sachsituationen werden nur folgende Aufgabentypen benötigt:<br>
+			±a+b, ±a−b, ±a⋅b, ±a:b (a, b ∈ Qι +)</p>
+			</td>
+		</tr><tr><td>
+			<p>K5: Lösungs- und Kontrollverfahren ausführen</p>
+
+			<p>K5: Symbolische und formale Sprache in natürliche Sprache übersetzen und umgekehrt</p>
+			</td>
+			<td><strong>E </strong>Rationale Zahlen addieren und subtrahieren<br>
+			• additive Gegenzahl</td>
+			<td>
+			<p>Keine abstrakten Regelformulierungen (vier- fache Fallunterscheidung), sondern Rückführung auf die Grundanschauung (Addition bzw. Subtraktion positiver rationaler Zahlen)„Kurzschreibweise“</p>
+
+			<p>Subtraktion negativer Zahlen interpretieren (z. B. Wegnehmen von Schulden, U-Boot verliert an Tiefe)</p>
+			</td>
+		</tr><tr><td>
+			<p>5: Lösungs und Kontrollverfahren ausführen</p>
+
+			<p>K5: Mit Termen arbeiten</p>
+
+			<p>K4: Verschiedene Formen der Darstellung interpretieren</p>
+
+			<p>K1: Mathematische Argumentationen entwickeln</p>
+			</td>
+			<td>
+			<p>Rationale Zahlen multiplizieren und dividieren <br>
+			• multiplikative Gegenzahl</p>
+
+			<p>Terme auswerten und interpretieren</p>
+
+			<p>• Rechenvorteile erkennen und dazu Rechengesetze nutzen</p>
+
+			<p>Die Notwendigkeit der Zahlbereichserweiterungen begründen</p>
+			</td>
+			<td>
+			<p>DDefinition von „Minus mal Minus“ über das Permanenzprinzip einsichtig machen</p>
+
+			<p>Auch mit Potenzen operieren</p>
+
+			<p>Icon §(fa-level-up)  L4: Funktionaler Zusammenhang: Terme und Gleichungen</p>
+
+			<p>Mengenbild IN ⊂ Z ⊂ Qι<br>
+			Abgeschlossenheit bezüglich der Rechenoperationen und ihrer Umkehrungen</p>
+
+			<p>Icon §(fa-Bell) Geschichte der rationalen Zahlen</p>
+			</td>
+		</tr></tbody></table><p> </p>
+"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3155> ;
+    skos:inScheme <> ;
+    skos:narrower <12912>,
+        <12913>,
+        <12914>,
+        <12915>,
+        <12916> ;
+    skos:prefLabel "L1: ZAHL UND ZAHLBEREICHE: - Mit Rationalen Zahlen Rechnen"@de .
+
+<3156> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<p><i class="fa fa-level-up"></i> Es wird empfohlen, Inhalte dieser Leitidee mit Inhalten anderer Leitideen (insbesondere L3: Raum und Form) zu verknüpfen. </p>
+
+<p>Die Bestimmung von Flächeninhalten ebener Figuren (z. B. Dreieck, Trapez, Parallelogramm) und von Volumina gerader Prismen sowie von Zylin- dern bildet den Schwerpunkt der Leitidee in den Klassenstufen 7 und 8. Dabei wird an die Kenntnisse der Orientierungsstufe angeknüpft, Parallelo- gramme und Zylinder sind beispielsweise als Figuren bzw. Körper bekannt, aber Berechnungen wurden bisher nicht durchgeführt.</p>
+
+<p>Das in der Orientierungsstufe benutzte Verfahren, gesuchte Flächeninhalte mit Einheitsquadraten auszulegen, kann bei vielen Flächen nicht ange- wendet werden. Stattdessen ermitteln Schülerinnen und Schüler Flächeninhalte dieser Figuren durch das Zurückführen auf Figuren, deren Flächen- inhalt bereits bestimmt werden kann. Sie führen dazu Flächenumwandlungen mittels Zerlegungen oder Ergänzungen konkret durch.</p>
+
+<p>Der Kreisumfang kann experimentell bestimmt werden; aus diesen Messungen leitet sich die Kreiszahl π als Proportionalitätsfaktor ab. Der Inhalt der Kreisfläche kann approximativ ermittelt werden (z. B. Zusammenlegen von Sektoren zu einem „Parallelogramm“). Näherungsverfahren zur Bestimmung der Kreiszahl π werden erst in den Klassenstufen 9 und 10 durchgeführt.</p>
+
+<p>Auch bei der Volumenbestimmung sollen experimentelle Methoden zum Einsatz kommen.<br>
+Beim Gebrauch der Fachsprache ist zwischen Objekt und Objekteigenschaft (z. B. Fläche und Flächeninhalt) zu unterscheiden. </p>
+"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3156> ;
+    skos:inScheme <> ;
+    skos:narrower <12917>,
+        <12918>,
+        <12919>,
+        <12920>,
+        <12921> ;
+    skos:prefLabel "L2: MESSEN UND GRÖSSEN - Berechnungen an Ebenen Figuren"@de .
+
+<3153> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<p>Aufgrund von Alltagserfahrungen und aus der Orientierungsstufe kennen Schülerinnen und Schüler bereits das Prozentzeichen, einfache Prozentsätze und deren Bedeutung. Die systematische Einführung der Prozentrechnung baut auf diesen Vorerfahrungen auf.</p>
+
+<p>Prozent- und Zinsrechnung können sowohl als spezielle Anwendungsgebiete der Bruchrechnung als auch unter dem Aspekt der Zuordnung zwischen Größenbereichen behandelt werden.Grundwissen sollte so gesichert sein, dass einfache Aufgaben auch im Kopf gerechnet werden können. Im Mittelpunkt des Unterrichts stehen immer wieder realitätsnahe Probleme, bei deren Lösung der Taschenrechner eingesetzt wird. </p>
+"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3153> ;
+    skos:inScheme <> ;
+    skos:narrower <12902>,
+        <12903>,
+        <12904>,
+        <12905>,
+        <12906>,
+        <12907> ;
+    skos:prefLabel "L1: ZAHL UND ZAHLBEREICHE: - PROZENT- UND ZINSRECHNUNG"@de .
+
+<3159> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<p>Diese Leitidee ist in die Themenkreise „Zuordnungen und Funktionen“ und „Terme und Gleichungen“ unterteilt, die miteinander verzahnt unterricht werden sollen.<br>
+Bereits in der Grundschule werden einfache funktionale Zusammenhänge (z. B. Stückzahl → Preis) thematisiert und in sprachlicher sowie tabellarischer Form dargestellt. In der Orientierungsstufe werden dazu weitere Beispiele und Eigenschaften ergänzt und das Operatormodell sowie propädeutisch geometrische Abbildungen (Spiegelung, Drehung) eingeführt. Im Vordergrund stehen dabei das intuitive Umgehen und Anwenden einfacher Funktionen, das weitgehend ohne Symbolik auskommt.<br>
+In den Klassenstufen 7 und 8 werden Zuordnungen und Funktionen in vielfältigen Sachsituationen aufgespürt, beschrieben und untersucht. Durch verschiedene Darstellungsformen (Text, Tabelle, Graph, Term) ergeben sich unterschiedliche Interpretationsmöglichkeiten. Auf intuitive Weise entwickeln Schülerinnen und Schüler ein Verständnis dafür, dass zu deren Beschreibung Variablen eine besondere Rolle spielen und in dynamischer Beziehung zueinander stehen. Dies soll durch vielfältige Handlungen und auch durch den Einsatz einer Tabellenkalkulation unterstützt werden. Fach- übergreifende Bezüge insbesondere zu den Naturwissenschaften bieten sich an.<br>
+In den Erweiterungs- und Vertiefungsteilen werden u. a. charakteristische Eigenschaften von linearen Funktionen und deren Graphen thematisiert.  </p>
+
+<p><strong>Hinweise und Vernetzung</strong></p>
+
+<ul><li><i class="fa fa-level-up"></i> L3: Raum und Form (Geometrische Abbildungen)</li>
+</ul>"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3159> ;
+    skos:inScheme <> ;
+    skos:narrower <12951>,
+        <12952>,
+        <12953>,
+        <12954>,
+        <12955>,
+        <12956> ;
+    skos:prefLabel "L4: FUNKTIONALER ZUSAMMENHANG: ZUORDNUNGEN UND FUNKTIONEN - Grundlagen"@de .
+
+<3162> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3162> ;
+    skos:inScheme <> ;
+    skos:narrower <12975>,
+        <12976>,
+        <12977>,
+        <12978>,
+        <12979>,
+        <12980> ;
+    skos:prefLabel "L4: FUNKTIONALER ZUSAMMENHANG: - Terme und Gleichungen Teil II"@de .
+
+<3160> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<p>Diese Leitidee ist in die Themenkreise „Zuordnungen und Funktionen“ und „Terme und Gleichungen“ unterteilt, die miteinander verzahnt unterricht werden sollen.</p>
+
+<p>Bereits in der Grundschule werden einfache funktionale Zusammenhänge (z. B. Stückzahl → Preis) thematisiert und in sprachlicher sowie tabellari- scher Form dargestellt. In der Orientierungsstufe werden dazu weitere Beispiele und Eigenschaften ergänzt und das Operatormodell sowie propädeu- tisch geometrische Abbildungen (Spiegelung, Drehung) eingeführt. Im Vordergrund stehen dabei das intuitive Umgehen und Anwenden einfacher Funktionen, das weitgehend ohne Symbolik auskommt.</p>
+
+<p>In den Klassenstufen 7 und 8 werden Zuordnungen und Funktionen in vielfältigen Sachsituationen aufgespürt, beschrieben und untersucht. Durch verschiedene Darstellungsformen (Text, Tabelle, Graph, Term) ergeben sich unterschiedliche Interpretationsmöglichkeiten. Auf intuitive Weise entwi- ckeln Schülerinnen und Schüler ein Verständnis dafür, dass zu deren Beschreibung Variablen eine besondere Rolle spielen und in dynamischer Be- ziehung zueinander stehen. Dies soll durch vielfältige Handlungen und auch durch den Einsatz einer Tabellenkalkulation unterstützt werden. Fach- übergreifende Bezüge insbesondere zu den Naturwissenschaften bieten sich an.</p>
+
+<p>In den Erweiterungs- und Vertiefungsteilen werden u. a. charakteristische Eigenschaften von linearen Funktionen und deren Graphen thematisiert. </p>
+"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3160> ;
+    skos:inScheme <> ;
+    skos:narrower <12957>,
+        <12958>,
+        <12959>,
+        <12960>,
+        <12961>,
+        <12962>,
+        <12963>,
+        <12964>,
+        <12965> ;
+    skos:prefLabel "L4: FUNKTIONALER ZUSAMMENHANG: ZUORDNUNGEN UND FUNKTIONEN - BESONDERE ZUORDNUNGEN UND FUNKTIONEN"@de .
+
+<3161> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<p>Diese Leitidee ist in die Themenkreise „Terme und Gleichungen“ und „Zuordnungen und Funktionen“ unterteilt, die miteinander verzahnt unterricht werden sollen.</p>
+
+<p>Terme und Gleichungen sind ein universelles Werkzeug der Mathematik. Das Vereinfachen von Termen und das Lösen von Gleichungen ist allerdings kein Selbstzweck, sondern soll gerade zu Beginn immer wieder an konkrete Sachprobleme angebunden werden. Ein Tabellenkalkulationsprogramm kann den Aufbau des Variablenbegriffs und das systematische Auffinden von Lösungen unterstützen.</p>
+
+<p>Für den verständigen Umgang mit Termen und Gleichungen ist das Erfassen der Termstruktur von entscheidender Bedeutung. Die Fähigkeiten aus der Orientierungsstufe werden dabei ausgebaut (Vorrang- und Klammernregeln) und durch die Verwendung von Variablen erweitert. Die Anzahl der Variablen und die Komplexität der Terme sollen den Erfordernissen angepasst werden. Dadurch entfällt ausuferndes Umformen von Termen.</p>
+
+<p>Die Methoden aus der Orientierungsstufe zum Lösen von Gleichungen (Umkehren der Rechenoperationen, systematisches Probieren und inhaltliches Lösen) werden aufgegriffen und durch grafische Lösungsverfahren sowie das Anwenden von Äquivalenzumformungen erweitert und systematisiert. Mit grafischen und tabellarischen Lösungsverfahren lassen sich auch solche Gleichungen (näherungsweise) lösen, für die den Schülerinnen und Schülern noch keine Lösungsalgorithmen zur Verfügung stehen. Die Stärken algorithmischen Vorgehens (z. B. einfach, breite Anwendbarkeit, stets zum Ziel führend) sollen jedoch bewusst werden. Darüber hinaus werden Terme auch funktional interpretiert.</p>
+
+<p>In den Erweiterungs- und Vertiefungsteilen werden u. a. die Verfahren im Hinblick auf Spezialfälle untersucht und Klassen von Gleichungen (mit Parametern) bearbeitet.</p>
+
+<p>Der Themenkreis „Terme und Gleichungen“ ist in zwei Blöcke gegliedert, welche mit zeitlicher Distanz zueinander unterrichtet werden sollen. Bruchterme und Bruchgleichungen werden erst in den Klassenstufen 9 und 10 behandelt. </p>
+"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3161> ;
+    skos:inScheme <> ;
+    skos:narrower <12966>,
+        <12967>,
+        <12968>,
+        <12969>,
+        <12970>,
+        <12971>,
+        <12972>,
+        <12973>,
+        <12974> ;
+    skos:prefLabel "L4: FUNKTIONALER ZUSAMMENHANG: - TERME UND GLEICHUNGEN"@de .
+
+<1> a skos:Concept ;
+    skos:narrower <3153>,
+        <3154>,
+        <3155>,
+        <3156>,
+        <3157>,
+        <3158>,
+        <3159>,
+        <3160>,
+        <3161>,
+        <3162>,
+        <3163>,
+        <3164> ;
+    skos:prefLabel "Kompetenzen"@de ;
+    skos:topConceptOf <> .
+
+<3158> a skos:Concept ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:broader <1> ;
+    skos:definition """<p>Während in der Orientierungsstufe das Erkennen und Erzeugen symmetrischer Figuren im Mittelpunkt steht, liegt der Schwerpunkt in den Klassenstu- fen 7 und 8 auf dem Abbildungsbegriff. Durch die Vernetzung mit Leitidee 4 (Funktionaler Zusammenhang) wird der funktionale Charakter geometri- scher Abbildungen deutlich.</p>
+
+<p>Aufbauend auf dem propädeutischen Zugang zu den geometrischen Abbildungen führen Schülerinnen und Schüler nun auch Verschiebung und Dre- hung durch. Im Bereich der Erweiterung (<strong>E</strong>) werden darüber hinaus die Kongruenzabbildungen auch hinsichtlich ihrer Eigenschaften untersucht. Durch Beschränkung auf charakteristische Dreieckskonstruktionen wird der Begriff der Kongruenz bereits einsichtig. Grundsätzlich genügt die exem- plarische Behandlung zweier Kongruenzsätze.</p>
+
+<p>Neben der Konstruktion mit Zirkel, Lineal und Geodreieck wird auch dynamische Geometriesoftware eingesetzt. In beiden Fällen beschreiben Schüle- rinnen und Schüler ihre Konstruktionen.</p>
+
+<p>Bei der Behandlung von Sätzen der ebenen Geometrie oder dem „Haus der Vierecke“ können die Kompetenzen K1 (Mathematisch argumentieren) und K6 (Kommunizieren) in besonderer Weise erweitert und vertieft werden. Beim Begründen können grundsätzlich verschiedene Zugänge (enaktiv, ikonisch, symbolisch) zur Binnendifferenzierung benutzt werden. In den Erweiterungsteilen (<strong>E</strong>) kann an dem Satz über die Winkelsumme im Dreieck und am Satz des Thales bereits der systematische Aufbau eines Beweises aufgezeigt werden. </p>
+"""@de ;
+    skos:exactMatch <https://curriculum.schulcampus-rlp.de/terminalObjectives/3158> ;
+    skos:inScheme <> ;
+    skos:narrower <12924>,
+        <12925>,
+        <12926>,
+        <12927>,
+        <12928>,
+        <12929>,
+        <12930>,
+        <12931>,
+        <12932>,
+        <12933>,
+        <12934>,
+        <12935>,
+        <12936>,
+        <12937>,
+        <12938>,
+        <12939>,
+        <12940>,
+        <12941>,
+        <12942>,
+        <12943>,
+        <12944>,
+        <12945>,
+        <12946>,
+        <12947>,
+        <12948>,
+        <12949>,
+        <12950> ;
+    skos:prefLabel "L3: RAUM UND FORM - EIGENSCHAFTEN UND BEZIEHUNGEN GEOMETRISCHER OBJEKTE"@de .
+
+<> a skos:ConceptScheme ;
+    dct:title "Mathematik 7-8 Rheinland-Pfalz"@de ;
+    sdo:about "Mathematik / Naturwissenschaften"@de ;
+    dini:classLevel 7,
+        8 ;
+    dini:educationalContext "Schulartübergreifend"@de ;
+    skos:hasTopConcept <1> .
+

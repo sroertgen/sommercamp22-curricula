@@ -1,0 +1,56 @@
+@prefix cs:   <http://example.org/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+cs:217169_9  a             skos:Concept ;
+        skos:inScheme      cs: ;
+        skos:prefLabel     "M9 1 Quadratwurzeln (ca. 17 Std.)"@de ;
+        skos:topConceptOf  cs: .
+
+cs:217170_9  a             skos:Concept ;
+        skos:inScheme      cs: ;
+        skos:prefLabel     "M9 5 Potenzfunktionen mit natürlichen Exponenten und Erweiterung des Potenzbegriffs (ca. 9 Std.)"@de ;
+        skos:topConceptOf  cs: .
+
+cs:217150_9  a             skos:Concept ;
+        skos:inScheme      cs: ;
+        skos:prefLabel     "M9 6 Satz des Pythagoras (ca. 11 Std.)"@de ;
+        skos:topConceptOf  cs: .
+
+cs:217177_9  a             skos:Concept ;
+        skos:inScheme      cs: ;
+        skos:prefLabel     "M9 3 Wahrscheinlichkeit verknüpfter Ereignisse (ca. 8 Std.)"@de ;
+        skos:topConceptOf  cs: .
+
+cs:217163_9  a          skos:Concept ;
+        skos:prefLabel  "M9 7.2 Sinus- und Kosinussatz (ca. 8 Std.)"@de .
+
+cs:217174_9  a             skos:Concept ;
+        skos:inScheme      cs: ;
+        skos:narrower      cs:217149_9 , cs:217156_9 ;
+        skos:prefLabel     "M9 2 Quadratische Funktionen (ca. 36 Std.)"@de ;
+        skos:topConceptOf  cs: .
+
+cs:217159_9  a          skos:Concept ;
+        skos:prefLabel  "M9 7.1 Trigonometrie am rechtwinkligen Dreieck (ca. 9 Std.)"@de .
+
+cs:217160_9  a             skos:Concept ;
+        skos:inScheme      cs: ;
+        skos:narrower      cs:217159_9 , cs:217163_9 ;
+        skos:prefLabel     "M9 7 Trigonometrie (ca. 17 Std.)"@de ;
+        skos:topConceptOf  cs: .
+
+cs:217171_9  a             skos:Concept ;
+        skos:inScheme      cs: ;
+        skos:prefLabel     "M9 4 Ähnlichkeit und Strahlensatz (ca. 14 Std.)"@de ;
+        skos:topConceptOf  cs: .
+
+cs:217149_9  a          skos:Concept ;
+        skos:prefLabel  "M9 2.1 Quadratische Funktionen und quadratische Gleichungen (ca. 18 Std.)"@de .
+
+cs:217156_9  a          skos:Concept ;
+        skos:prefLabel  "M9 2.2 Quadratische Funktionen in Anwendungen (ca. 18 Std.)"@de .
+
+cs:     a                   skos:ConceptScheme ;
+        dct:title           "Mathe Klasse 9 Bayern"@de ;
+        skos:hasTopConcept  cs:217177_9 , cs:217174_9 , cs:217171_9 , cs:217160_9 , cs:217169_9 , cs:217150_9 , cs:217170_9 .

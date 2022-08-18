@@ -1,0 +1,25 @@
+{
+  "mappings": {
+    "read": {
+      "auth": false
+    },
+    "create": {
+      "auth": false
+    },
+    "update": {
+      "auth": false,
+      "crossUser": true
+    },
+    "delete": {
+      "auth": false,
+      "crossUser": true
+    },
+    "fromSchemeWhitelist": null,
+    "toSchemeWhitelist": null,
+    "cardinality": "1-to-n"
+  },
+  "mongo": {
+    "host": "mongo"
+  },
+  "namespace": "112a8503-4d07-4831-9c13-6e7092efea3d"
+}

@@ -1,0 +1,60 @@
+version: "3"
+
+services:
+  cocoda:
+    image: coliconc/cocoda
+    depends_on: 
+      - jskos-server
+    volumes:
+      # Mount ./config folder into container
+      - ./cocoda/config:/config
+    ports:
+      # Use host port 8080
+      - 8080:80
+    restart: always
+
+  jskos-server:
+    image: coliconc/jskos-server
+    # replace this with your UID/GID if necessary (id -u; id -g); remove on macOS/Windows
+    user: 1000:1000
+    depends_on:
+      - mongo
+    volumes:
+      - ./jskos-server/data/config:/config
+    # environment:
+    #   - NODE_ENV=production # note that this requires the server to be run behind a HTTPS proxy
+    ports:
+      - 3000:3000
+    restart: unless-stopped
+
+  mongo:
+    image: mongo:4
+    # replace this with your UID/GID if necessary (id -u; id -g); remove on macOS/Windows
+    user: 1000:1000
+    volumes:
+      - ./jskos-server/data/db:/data/db
+    restart: unless-stopped
+
+  fuseki:
+    container_name: oeh-fuseki
+    build: ./oeh-triple-store
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3030/$$/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    ports:
+      - "3030:3030"
+    environment:
+      ADMIN_PASSWORD: ${PW}
+      ENABLE_DATA_WRITE: "true"
+      ENABLE_UPDATE: "true"
+      QUERY_TIMEOUT: 600000
+
+  dataloader:
+    build: 
+      context: ./data_loader
+      network: host
+    depends_on:
+      fuseki:
+        condition: service_healthy
