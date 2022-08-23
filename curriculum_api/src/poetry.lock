@@ -378,6 +378,23 @@ optional = false
 python-versions = ">=3.5"
 
 [[package]]
+name = "sparqlwrapper"
+version = "2.0.0"
+description = "SPARQL Endpoint interface to Python"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[package.dependencies]
+rdflib = ">=6.1.1"
+
+[package.extras]
+pandas = ["pandas (>=1.3.5)"]
+keepalive = ["keepalive (>=0.5)"]
+docs = ["sphinx-rtd-theme", "sphinx (<5)"]
+dev = ["pandas-stubs (>=1.2.0.48)", "pandas (>=1.3.5)", "mypy (>=0.931)", "setuptools (>=3.7.1)"]
+
+[[package]]
 name = "starlette"
 version = "0.19.1"
 description = "The little ASGI library that shines."
@@ -501,7 +518,7 @@ python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "72dd9970cf79aed186509475e25619a8e1ceecbb459d3122f472a4dbb475e227"
+content-hash = "a99e96f55556e96616f13d5e405d2a9a1910cbb3692aac3e36ca3a0777c04dd0"
 
 [metadata.files]
 anyio = []
@@ -536,6 +553,7 @@ rdflib = []
 requests = []
 six = []
 sniffio = []
+sparqlwrapper = []
 starlette = []
 tomli = []
 tomlkit = []

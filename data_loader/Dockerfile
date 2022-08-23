@@ -1,8 +1,5 @@
 FROM python:3
 
-RUN apt-get update && apt-get install libcam-pdf-perl cpanminus -y --no-install-recommends
-
-RUN cpanm App::skos2jskos
 
 WORKDIR /usr/src/app
 

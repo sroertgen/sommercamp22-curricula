@@ -1,1 +1,2 @@
-jskos-server/data
+**/__pycache__/
+jskos-server/data/db
