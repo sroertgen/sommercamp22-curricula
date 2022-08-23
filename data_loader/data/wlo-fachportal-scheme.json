@@ -1,0 +1,101 @@
+{
+   "@context" : "https://gbv.github.io/jskos/context.json",
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "WirLernenOnline Fachportalmanger:innen"
+         }
+      }
+   ],
+   "prefLabel" : {
+      "de" : "Taxonomie von Lehrplanthemen in WirLernenOnline"
+   },
+   "topConcepts" : [
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/15fce411-54d9-467f-8f35-61ea374a298d"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/f0109e16-a8fc-48b5-9461-369571fd59f2"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/742d8c87-e5a3-4658-86f9-419c2cea6574"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/4940d5da-9b21-4ec0-8824-d16e0409e629"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/6a3f5881-cce0-4e8d-b123-26392b3f1c19"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/eef047a3-58ba-419c-ab7d-3d0cfd04bb4e"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/26a336bf-51c8-4b91-9a6c-f1cf67fd4ae4"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/baec6d1a-9786-4afc-b824-b3bb99516fa3"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/69f9ff64-93da-4d68-b849-ebdf9fbdcc77"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/ea776a48-b3f4-446c-b871-19f84b31d280"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/f1049950-bdda-45f5-9c73-38b51ea66c74"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/7e2a3536-8441-4328-8ee6-ab0068bb13f8"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/15dbd166-fd31-4e01-aabd-524cfa4d2783"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/bd8be6d5-0fbe-4534-a4b3-773154ba6abc"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/585c5380-5171-4289-a241-45b9aed08660"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/d0ed50e6-a49f-4566-8f3b-c545cdf75067"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/9d364fd0-4374-40b4-a153-3c722b9cda35"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/26105802-9039-4add-bf21-07a0f89f6e70"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/00b632ac-7e42-4b7e-b3d4-b3adfc4ce61d"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/86b990ef-0955-45ad-bdae-ec2623cf0e1a"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/ffd298b5-3a04-4d13-9d26-ddd5d3b5cedc"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/7998f334-9311-491e-9a58-72baf2a7efd2"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/a87c092d-e3b5-43ef-81db-757ab1967646"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/2eda0065-f69b-46c8-ae09-d258c8226a5e"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/66c667bc-8777-4c57-b476-35f54ce9ff5d"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/94f22c9b-0d3a-4c1c-8987-4c8e83f3a92e"
+      },
+      {
+         "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/11bdb8a0-a9f5-4028-becc-cbf8e328dd4b"
+      }
+   ],
+   "type" : [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+   ],
+   "uri" : "http://w3id.org/openeduhub/vocabs/oeh-topics/5e40e372-735c-4b17-bbf7-e827a5702b57"
+}
+

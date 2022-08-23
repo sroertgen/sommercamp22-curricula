@@ -7,8 +7,12 @@ from requests_toolbelt.multipart.encoder import MultipartEncoder
 url = "http://fuseki:3030/inference/data"
 
 data = [
+    "data/reasoning-skos-exactMatch.ttl",
+    "data/wlo-fachportal.ttl",
+    "data/b-w-mathe-6.ttl",
     "data/bayern-mathe-6.ttl",
-    "data/skos_186_mathematik_7_8.ttl"
+    "data/rlp-mathe-7-8.ttl",
+    "data/rlp-bio-7-8.ttl"
 ]
 
 for _file in data:

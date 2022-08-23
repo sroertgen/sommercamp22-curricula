@@ -2,7 +2,7 @@ version: "3"
 
 services:
   cocoda:
-    image: coliconc/cocoda
+    image: coliconc/cocoda 
     depends_on: 
       - jskos-server
     volumes:
@@ -14,13 +14,15 @@ services:
     restart: always
 
   jskos-server:
-    image: coliconc/jskos-server
+    container_name: jskos-server
+    image: coliconc/jskos-server 
     # replace this with your UID/GID if necessary (id -u; id -g); remove on macOS/Windows
     user: 1000:1000
     depends_on:
       - mongo
     volumes:
       - ./jskos-server/data/config:/config
+      - ./data_loader/data:/data_loader/data 
     # environment:
     #   - NODE_ENV=production # note that this requires the server to be run behind a HTTPS proxy
     ports:
